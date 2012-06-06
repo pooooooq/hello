@@ -33,7 +33,7 @@ public class PushResource {
 	static{
 		simpleMQTTClient=MQTTTools.getInstance(MQTTConf.loadConfig(),log);
 		System.out.println("static executed!");
-		System.out.println("static executed!");
+		System.out.println("static executed!1111111111");
 	}
 	
 	
