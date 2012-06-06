@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mqtt>
+	<cleanSession value="false" />
+	<persistEnable value="true" />
+	<clientId value="PushServer" />
+	<keepAlive value="30" />
+	<retryInterval value="10" />
+	<persistDir value="." />
+	<commonQoS value="2" />
+	<ip value="127.0.0.1" />
+	<port value="1883" />
+</mqtt>
